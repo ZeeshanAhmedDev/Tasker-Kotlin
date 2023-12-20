@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.awais.raza.todoapp-mergeDebugResources-30:/layout/item_view.xml",
+        "source": "com.awais.raza.todoapp-main-33:/layout/item_view.xml"
+    },
+    {
+        "merged": "com.awais.raza.todoapp-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.awais.raza.todoapp-main-33:/layout/activity_main.xml"
+    }
+]

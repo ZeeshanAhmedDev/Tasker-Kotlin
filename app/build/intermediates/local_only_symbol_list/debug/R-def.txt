@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baseline_add_24
+drawable baseline_delete_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id actionBtn
+id checkbox
+id deleteBtn
+id recycler
+id textView
+layout activity_main
+layout item_view
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.TodoApp
+style Theme.TodoApp
+xml backup_rules
+xml data_extraction_rules
